@@ -70,6 +70,7 @@ def ask_for_tips():
         print("thank you so much for the tip of $", tip)
 
         print("have a lovely day")
+        print("good bye")
 
 
 def main_program():
