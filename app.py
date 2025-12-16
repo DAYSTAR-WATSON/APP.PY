@@ -92,3 +92,4 @@ def evaluate(items):
 
 expression = input("enter your calculatons: ")
 print(calculate(expression))
+print("goodbye")
